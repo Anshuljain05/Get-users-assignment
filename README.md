@@ -74,10 +74,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Method:
 
-# React-Bootstrap for navbar and spinner/loader
+React-Bootstrap for navbar and spinner/loader
 
-# Axios to fetch data
+Axios to fetch data
 
-# CSS for creating UserCard component
+CSS for creating UserCard component
 
-## Time taken: 3 hours
+### Time taken: 3 hours
