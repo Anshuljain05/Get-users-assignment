@@ -1,5 +1,16 @@
 Hosted Link: https://tiny-bonbon-f19367.netlify.app/
 
+### Method:
+
+React-Bootstrap for navbar and spinner/loader
+
+Axios to fetch data
+
+CSS for creating UserCard component
+
+### Time taken: 3 hours
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,13 +82,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-### Method:
-
-React-Bootstrap for navbar and spinner/loader
-
-Axios to fetch data
-
-CSS for creating UserCard component
-
-### Time taken: 3 hours
